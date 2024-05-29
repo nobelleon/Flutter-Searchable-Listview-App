@@ -2,7 +2,6 @@
 
 ![Searchable Listview App](https://github.com/nobelleon/Flutter-Searchable-Listview-App/assets/76748114/a9d31d43-13b1-480e-93ab-042626fe2528)
 
-
 A new Flutter project.  
 
 ## Getting Started
